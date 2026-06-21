@@ -1,0 +1,9 @@
+{
+  "title": "MessyApp (from json)",
+  "geometry": "800x600",
+  "feature_flags": {
+    "new_ui": true,
+    "old_ui": true,
+    "both_at_once": true
+  }
+}
